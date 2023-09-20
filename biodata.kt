@@ -6,5 +6,5 @@ fun main()
 
     println("Nama: $nama")
     println("Kelas: $kelas")
-    println("Nama: $hobi")
+    println("Hobi: $hobi")
 }
